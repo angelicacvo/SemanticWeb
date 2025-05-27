@@ -1,0 +1,83 @@
+:root{
+    --background-color: #E9F5DB
+    --primary-color: #CFE1B9
+    --secondary-color: #B5C99A
+    --second-background: #97A97C
+    --blabla-color: #87986A
+    --bla-color: #718355
+}
+
+body {
+    background-color: #E9F5DB !important;
+}
+
+header{
+    padding: 2%;
+    background-color: #606c38;
+    text-align: center;
+}
+
+/* index */
+
+.main-sections #carouselExampleRide{
+    margin-left: 20%;
+    margin-right: 20%;
+
+}
+
+.main-sections #carouselExampleRide, img{
+    height: 500px;
+    padding-bottom: 5%;
+}
+
+.main-sections .card-group{
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.main-sections .card-group .card{
+    background-color: #87986A;
+}
+
+.main-sections .card-group img{
+    width: 100%;
+    height: auto;
+    padding: 2%;
+}
+
+.main-sections .card-group .card-body{
+    text-align: center;
+}
+
+/* products */
+
+#products{
+    margin: 5%;
+}
+
+#products img{
+    width: 100%;
+    height: 250px;
+}
+
+/* blog */
+.blog .card img{
+    padding-top: 5%;
+    width: 80%;
+    height: 80%;
+}
+
+.blog .card{
+    margin-top: 20%;
+    max-width: 540px;
+}
+
+/* contact */
+.form {
+    margin: 10%;
+    background-color: ;
+}
+
+
