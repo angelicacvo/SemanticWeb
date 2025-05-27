@@ -1,10 +1,10 @@
 :root{
-    --background-color: #E9F5DB
-    --primary-color: #CFE1B9
-    --secondary-color: #B5C99A
-    --second-background: #97A97C
-    --blabla-color: #87986A
-    --bla-color: #718355
+    --background-color: #E9F5DB;
+    --primary-color: #CFE1B9;
+    --secondary-color: #B5C99A;
+    --second-background: #97A97C;
+    --blabla-color: #87986A;
+    --bla-color: #718355;
 }
 
 body {
@@ -19,13 +19,13 @@ header{
 
 /* index */
 
-.main-sections #carouselExampleRide{
+#carouselExampleRide{
     margin-left: 20%;
     margin-right: 20%;
 
 }
 
-.main-sections #carouselExampleRide, img{
+#carouselExampleRide, img{
     height: 500px;
     padding-bottom: 5%;
 }
@@ -77,7 +77,6 @@ header{
 /* contact */
 .form {
     margin: 10%;
-    background-color: ;
 }
 
 
